@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ilona</h1>
+<h1 align="center">Hi 👋, I'm Ilona, nice to meet you!</h1>
 <h3 align="center">A frontend developer in training from Austria</h3>
 
 - 🔭 I’m currently working on **Pokédex with API**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap** at the **Developer Akademie**
 
 - 💬 Ask me about **anything**
 
