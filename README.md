@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ilona, nice to meet you!</h1>
-<h3 align="center">A frontend developer in training from Austria</h3>
+<h1 align="center">Hi 👋, I'm Ilona. Nice to meet you!</h1>
+<h3 align="center">A frontend developer from Austria</h3>
 
 - 🔭 I’m currently working on **Pokédex with API**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap** at the **Developer Akademie**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap** at **Developer Akademie**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **ilona.koschi@hotmail.com**
 
-- ⚡ Fun fact **Resident Evil is my passion!**
+- ⚡ Fun fact **Resident Evil is my favourite videogame franchise!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
