@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilona. Nice to meet you!</h1>
 <h3 align="center">A frontend developer from Austria</h3>
 
-- 🔭 I’m currently working on **Coding-Challenge Module 9**
+- 🔭 I’m currently working on **Weather App using Weather API**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Angular, TypeScript, Bootstrap** at **Developer Akademie**
 
