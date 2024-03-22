@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilona. Nice to meet you!</h1>
-<h3 align="center">Frontend developer from Austria </h3>
+<h3 align="center">Junior frontend developer from Austria </h3>
 
 # 💫 About Me:
 🔭 I’m currently working on **Kanban Board group project**<br><br>
