@@ -2,7 +2,7 @@
 <h3 align="center">Junior frontend developer from Austria </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on **Kanban Board group project**<br><br>
+🔭 I’m currently working on **El Pollo Loco**<br><br>
 🌱 I’m currently learning **Frontend Web Development** at **Developer Akademie**<br><br>
 💬 Ask me about **my dog Kirby**<br><br>
 📫 How to reach me **ilona.koschi@hotmail.com**<br><br>
